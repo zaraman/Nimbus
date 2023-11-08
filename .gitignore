@@ -1,0 +1,11 @@
+node_modules
+build
+bin
+.idea
+cache
+artifacts
+.env
+.DS_Store
+.vscode
+.openzeppelin/unknown-31337.json
+scripts/internal
